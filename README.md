@@ -1,4 +1,4 @@
-![GCoM Logo](gcom_marca_cor.jpg)
+![GCoM Logo](gcom_marca_cor.png)
 
 # Welcome to GCoM – Control and Modeling Group 
 
